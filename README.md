@@ -1,4 +1,6 @@
 # La-creatividad-
 El presente artículo de investigación examina el concepto de la creatividad en el campo educativo, analizando cómo su integración transforma los procesos de enseñanza y aprendizaje en las aulas contemporáneas.
+
+
 Resumen
 En el siguiente artículo de investigación buscamos la integración de la creatividad pedagógica en la enseñanza del idioma inglés como segunda lengua en la Educación Media Diversificada, por lo cual se intentará analizar cómo la creatividad actúa como ente trascendental para evitar la adquisición tediosa de la gramática y el vocabulario volcando la enseñanza de una segunda lengua en un proceso activo de aprendizaje comunicativo e intercultural. En este trabajo podrán apreciar cómo se definen las competencias creativas lingüísticas, sus aplicaciones mediante el aprendizaje basado en tareas (TBL) y la simulación interactiva, las metodologías innovadoras para la comunicación oral y escrita, así como su impacto directo en la fluidez y motivación del estudiante. Asimismo, se reflexiona sobre los beneficios y limitaciones en el aula contemporánea.
