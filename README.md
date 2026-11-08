@@ -9,7 +9,14 @@ En el siguiente artículo de investigación buscamos la integración de la creat
 Palabras claves: creatividad lingüística, enseñanza del inglés, comunicación interactiva, EFL, pedagogía comunicativa, aprendizaje significativo.
 
 
-Introducción
+                                                      Introducción
 
 La enseñanza del idioma inglés como lengua extranjera (EFL) y más enfocada en la Educación Media Diversificada exige responder a un entorno a nivel general dinámico donde la competencia comunicativa no podemos solo reducirla a la memorización mecánica de estructuras sintácticas o listas de vocabulario aislado, las cuales terminaran entorpeciendo el proceso de aprendizaje y creativo. Podríamos decir que, en la actualidad, aprender inglés implica adquirir la capacidad de expresar ideas complejas sin dejar a un lado resolver dilemas interculturales o comunicarse de manera fluida y persuasiva en contextos reales lo cual hace muy importante la incorporación de la creatividad en la cátedra de inglés actuando como un catalizador estratégico que nos ayuda a transformar el aula tradicional en un espacio interactivo que termina siendo un conducto que nos ayuda a ir reduciendo el filtro afectivo y la ansiedad del estudiante frente al uso del nuevo idioma.
 Para nosotros los docentes del área de inglés, el desafío pedagógico es un hecho que consiste en diseñar entornos de aprendizaje que logren fomenten el pensamiento divergente y el uso expresivo del inglés de manera natural y creativa. Por lo que considero un deber integrar actividades creativas: tales como la producción de guiones teatrales, el debate argumentativo, la narrativa digital (digital storytelling) y la resolución colaborativa de problemas en inglés, lo cual servirá de puente para el docente ya que conocerá que areas o competencias atacar y a su vez, al estudiante por qué podrá fortalecer tanto las micro habilidades lingüísticas (listening, speaking, reading, writing) como las competencias socioemocionales indispensables para entablar relaciones en entornos labores o simplemente en el día a día. Por consiguiente, este artículo investiga los fundamentos, aplicaciones e impacto de la creatividad en la enseñanza del inglés, ofreciendo un marco reflexivo alineado a la excelencia académica universitaria.
+
+
+                                            La Creatividad en la Cátedra de Inglés
+                                            
+Definición de Creatividad 
+
+En el contexto de la cátedra de inglés, la creatividad se define como la capacidad pedagógica y lingüística de utilizar la lengua nativa de manera flexible, fluida y original para construir significados auténticos. Desde la perspectiva de la lingüística aplicada, la creatividad comunicativa implica que el estudiante no solo repite patrones memorizados, sino que reorganiza el léxico y las estructuras gramaticales aprendidas para expresar intenciones, emociones e ideas propias en situaciones impredecibles.
