@@ -21,6 +21,46 @@ Definición de Creatividad
 
 En el contexto de la cátedra de inglés, la creatividad se define como la capacidad pedagógica y lingüística de utilizar la lengua nativa de manera flexible, fluida y original para construir significados auténticos. Desde la perspectiva de la lingüística aplicada, la creatividad comunicativa implica que el estudiante no solo repite patrones memorizados, sino que reorganiza el léxico y las estructuras gramaticales aprendidas para expresar intenciones, emociones e ideas propias en situaciones impredecibles.
 
+La creatividad en la cátedra de inglés consiste en utilizar diferentes estrategias y actividades innovadoras para facilitar el aprendizaje del idioma. Su propósito es lograr que las clases sean más dinámicas, interesantes y participativas, permitiendo que los estudiantes aprendan de una manera práctica y divertida.
+
+El docente puede desarrollar la creatividad mediante:
+
+1. Juegos educativos: Utilizar dinámicas, concursos y juegos de palabras para aprender vocabulario y gramática.
+2. Canciones en inglés: Ayudan a mejorar la pronunciación, la escucha y la comprensión del idioma.
+3. Dramatizaciones: Permiten practicar conversaciones y situaciones de la vida cotidiana en inglés.
+4. Uso de tecnología: Incorporar videos, aplicaciones, plataformas digitales y recursos interactivos.
+5. Actividades grupales: Promover diálogos, exposiciones y trabajos en equipo para fortalecer la comunicación.
+Importancia: La creatividad permite que los estudiantes pierdan el miedo a expresarse en inglés, participen con mayor confianza y desarrollen sus habilidades comunicativas. Además, ayuda al docente a adaptar sus clases a las necesidades y diferentes formas de aprender de sus estudiantes.
+
+Beneficios y limitaciones de la creatividad aplicada en la enseñanza del inglés
+La creatividad en la enseñanza del inglés permite desarrollar clases más dinámicas, interesantes y participativas. Sin embargo, también presenta algunos desafíos que el docente debe tomar en cuenta.
+
+Beneficios
+
+1. Mayor motivación: Despierta el interés de los estudiantes y aumenta sus ganas de aprender inglés mediante actividades diferentes y entretenidas.
+
+2. Aprendizaje significativo: Facilita la comprensión y retención de nuevos conocimientos mediante juegos, canciones, dramatizaciones y actividades prácticas.
+
+3. Participación activa: Motiva a los estudiantes a expresarse en inglés, compartir ideas y participar sin temor a equivocarse.
+
+4. Desarrollo de habilidades: Fortalece la lectura, escritura, escucha y expresión oral mediante experiencias variadas.
+
+5. Confianza y autonomía: Ayuda a los estudiantes a perder el miedo a hablar inglés, desarrollar su creatividad y aprender por sí mismos.
+
+   
+Limitaciones
+
+1. Falta de recursos: Algunas actividades creativas necesitan materiales, tecnología o equipos que no siempre están disponibles en el aula.
+
+2. Tiempo de preparación: Diseñar actividades innovadoras requiere planificación y dedicación por parte del docente.
+
+3. Diferentes niveles de aprendizaje: No todos los estudiantes tienen el mismo dominio del inglés, por lo que algunas actividades pueden resultar difíciles para unos y sencillas para otros.
+
+4. Distracciones: Si las actividades no están bien organizadas, los estudiantes pueden concentrarse más en el juego que en el aprendizaje.
+
+5. Resistencia al cambio: Algunos estudiantes pueden sentir vergüenza o inseguridad al participar en actividades nuevas, especialmente cuando deben hablar en otro idioma.
+
+
                                                 Conclusión
 
 La creatividad y la enseñanza del inglés son dos elementos que se complementan, ya que aprender un idioma no consiste únicamente en memorizar vocabulario o reglas gramaticales, sino también en encontrar diferentes maneras de comunicarse, expresar ideas y comprender el mundo que nos rodea. A través de la creatividad, el aprendizaje del inglés puede convertirse en una experiencia más dinámica, participativa y significativa para los estudiantes.
