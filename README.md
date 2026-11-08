@@ -33,7 +33,8 @@ En conclusión, la creatividad en la cátedra de inglés no es simplemente un co
 
                                         Referencias Bibliográficas
 
-Ahsanu, M., Wardani, E., & Ashari, A. (2025). Creative teaching in English language classrooms: A reflective and contextual interpretation. Journal of English Education and Society. https://doi.org/10.21070/jees.v10i2.1967
+
+Ahsanu, M., Wardani, E., & Ashari, A. (2025). Creative teaching in English language classrooms: A reflective and contextual interpretation. JEES (Journal of English Educators Society), 10(2), 206–218. https://doi.org/10.21070/jees.v10i2.1967
 
 Li, H., & Wu, H. (2025). Looking to the past for mapping the future: A bibliometric review of extant creativity research in second language education. Acta Psychologica, 257, 105138. https://doi.org/10.1016/j.actpsy.2025.105138
 
@@ -41,7 +42,8 @@ Vincent-Lancrin, S., González-Sancho, C., Bouckaert, M., De Luca, F., Fernánde
 
 Wang, H. (2026). Exploring high school teachers’ and students’ perceptions of teaching for creativity in EFL classes. Innovation in Language Learning and Teaching, 20(2), 198–210. https://doi.org/10.1080/17501229.2024.2388631
 
-Yudha, E. K., Rudiyanto, R., & Rohman, R. (2024). Integrating creativity and technology in English language teaching: A systematic review of pedagogical innovations and assessment strategies in EFL contexts. English Language Teaching for the World, 11(2). https://doi.org/10.26858/eltww.v11i2.65575
+Yu, X., Wang, T.-Y., & Yuizono, T. (2023). Creativity development through questioning activity in second language education. Frontiers in Education, 8, 1178655. https://doi.org/10.3389/feduc.2023.1178655
 
-Yu, X., Wang, T.-Y., & Yuizono, T. (2023). Creativity development through questioning activity in second language education. Frontiers in Education, 8. https://doi.org/10.3389/feduc.2023.1178655
+Yudha, E. K., Rudiyanto, & Rohman, R. (2023). Integrating creativity and technology in English language teaching: A systematic review of pedagogical innovations and assessment strategies in EFL contexts. ELT Worldwide: Journal of English Language Teaching, 11(2), 655–675. https://doi.org/10.26858/eltww.v11i2.65575
+
 
