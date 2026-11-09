@@ -20,6 +20,9 @@ Para nosotros los docentes del área de inglés, el desafío pedagógico es un h
 Definición de Creatividad 
 
 En el contexto de la cátedra de inglés, la creatividad se define como la capacidad pedagógica y lingüística de utilizar la lengua nativa de manera flexible, fluida y original para construir significados auténticos. Desde la perspectiva de la lingüística aplicada, la creatividad comunicativa implica que el estudiante no solo repite patrones memorizados, sino que reorganiza el léxico y las estructuras gramaticales aprendidas para expresar intenciones, emociones e ideas propias en situaciones impredecibles.
+```
+Ejemplos de Creatividad Aplicada en la Enseñanza del Inglés
+```
 
 La creatividad en la cátedra de inglés consiste en utilizar diferentes estrategias y actividades innovadoras para facilitar el aprendizaje del idioma. Su propósito es lograr que las clases sean más dinámicas, interesantes y participativas, permitiendo que los estudiantes aprendan de una manera práctica y divertida.
 
