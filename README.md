@@ -117,6 +117,8 @@ Li, H., & Wu, H. (2025). Looking to the past for mapping the future: A bibliomet
 
 Nominis. (2023, 12 de mayo). 10 formas creativas de fomentar el aprendizaje del inglés en niños a través de la expresión y la creatividad. https://nominis.es/blog/10-formas-creativas-fomentar-aprendizaje-ingles-ninos-expresion-creatividad/
 
+Sánchez Avila, P. del R., Córdova Saltos, J. C., Alvarado Ferretti, G. L., & Vera Torres, J. Y. (2025). Estrategias didácticas innovadoras para la enseñanza del lenguaje: una revisión sistemática. *RECIMUNDO, 9*(2), 17–36. https://doi.org/10.26820/recimundo/9.(2).abril.2025.17-36
+
 Vincent-Lancrin, S., González-Sancho, C., Bouckaert, M., De Luca, F., Fernández-Barrerra, M., Jacotin, G., Urgel, J., & Vidal, Q. (2019). Fostering students' creativity and critical thinking: What it means in school. OECD Publishing. https://doi.org/10.1787/62212c37-en
 
 Wang, H. (2026). Exploring high school teachers’ and students’ perceptions of teaching for creativity in EFL classes. Innovation in Language Learning and Teaching, 20(2), 198–210. https://doi.org/10.1080/17501229.2024.2388631
