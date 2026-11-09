@@ -26,9 +26,13 @@ En el contexto de la cátedra de inglés, la creatividad se define como la capac
 ```
 La creatividad en la enseñanza del inglés se refleja en la incorporación de actividades diferentes a los ejercicios tradicionales, donde los estudiantes utilizan el idioma para crear, experimentar y comunicar sus propias ideas. Algunos ejemplos son:
 1. Creación de historias ilustradas (Story Creation): Los estudiantes inventan historias a partir de una secuencia de imágenes, crean sus propios personajes y escriben diálogos en inglés. Posteriormente, pueden presentar sus historias ante sus compañeros.
+   
 2. Diseño de una ciudad imaginaria (Design Your Own City): Los alumnos diseñan una ciudad utilizando dibujos, maquetas o herramientas digitales. Luego, describen los lugares, indican cómo llegar a ellos y explican qué actividades se pueden realizar. Así practican vocabulario sobre lugares, direcciones y preposiciones.
+
 3. Creación de un noticiero escolar (School News): Los estudiantes organizan un pequeño noticiero en inglés, donde presentan noticias de la escuela, realizan entrevistas o informan sobre acontecimientos. Cada participante asume un papel, como presentador, reportero o entrevistado.
+
 4. Escape Room en inglés: El docente prepara una serie de pistas, acertijos y desafíos que los estudiantes deben resolver utilizando sus conocimientos del idioma. Por ejemplo, descifrar palabras, completar oraciones o responder preguntas para avanzar hasta encontrar la solución final.
+   
 5. Creación de anuncios publicitarios (Advertising Creation): Los estudiantes inventan un producto o servicio y elaboran un anuncio para promocionarlo en inglés. Pueden diseñar carteles, crear eslóganes y presentar sus productos ante la clase, utilizando expresiones persuasivas.
 6. Simulación de situaciones de la vida cotidiana (Real-Life Simulations): Los estudiantes representan situaciones como comprar en una tienda, pedir comida en un restaurante, reservar un hotel o solicitar información. Cada uno asume un personaje y utiliza expresiones en inglés según el contexto.
 ```
@@ -42,9 +46,10 @@ Para desarrollar la creatividad lingüística es importante utilizar metodologí
 3. Escritura Creativa (Creative Writing): Busca desarrollar la imaginación mediante la producción de textos propios. Se pueden proponer actividades como inventar finales para cuentos, escribir poemas, crear personajes o redactar historias a partir de palabras al azar.
    
 4. Aprendizaje Basado en Juegos (Game-Based Learning): Utiliza juegos como recurso para practicar y desarrollar habilidades lingüísticas. Se pueden realizar concursos de vocabulario, juegos de adivinanzas, retos de construcción de oraciones y actividades interactivas mediante Wordwall, Kahoot o Quizizz.
-8. Aprendizaje Basado en Problemas (Problem-Based Learning): Presenta situaciones que los estudiantes deben analizar y resolver utilizando el inglés. Por ejemplo, organizar un viaje con un presupuesto limitado, encontrar soluciones para reducir la contaminación o planificar una actividad escolar.
+
+5. Aprendizaje Basado en Problemas (Problem-Based Learning): Presenta situaciones que los estudiantes deben analizar y resolver utilizando el inglés. Por ejemplo, organizar un viaje con un presupuesto limitado, encontrar soluciones para reducir la contaminación o planificar una actividad escolar.
    
-5. Dramatización y Juego de Roles (Role-Play): Permite representar diferentes personajes y situaciones mediante diálogos e improvisaciones. Los estudiantes pueden simular entrevistas, conversaciones en lugares públicos o situaciones cotidianas, desarrollando la fluidez, la pronunciación y la seguridad al hablar.
+6. Dramatización y Juego de Roles (Role-Play): Permite representar diferentes personajes y situaciones mediante diálogos e improvisaciones. Los estudiantes pueden simular entrevistas, conversaciones en lugares públicos o situaciones cotidianas, desarrollando la fluidez, la pronunciación y la seguridad al hablar.
 
 ```
                                  Impacto de la Creatividad en el Desarrollo y Avance de la Cátedra de inglés
