@@ -22,7 +22,7 @@ Definición de Creatividad
 En el contexto de la cátedra de inglés, la creatividad se define como la capacidad pedagógica y lingüística de utilizar la lengua nativa de manera flexible, fluida y original para construir significados auténticos. Desde la perspectiva de la lingüística aplicada, la creatividad comunicativa implica que el estudiante no solo repite patrones memorizados, sino que reorganiza el léxico y las estructuras gramaticales aprendidas para expresar intenciones, emociones e ideas propias en situaciones impredecibles.
 
 ```
-                                                Ejemplos de Creatividad Aplicada en la Enseñanza del Inglés
+                                      Ejemplos de Creatividad Aplicada en la Enseñanza del Inglés
 ```
 La creatividad en la enseñanza del inglés se refleja en la incorporación de actividades diferentes a los ejercicios tradicionales, donde los estudiantes utilizan el idioma para crear, experimentar y comunicar sus propias ideas. Algunos ejemplos son:
 1. Creación de historias ilustradas (Story Creation): Los estudiantes inventan historias a partir de una secuencia de imágenes, crean sus propios personajes y escriben diálogos en inglés. Posteriormente, pueden presentar sus historias ante sus compañeros.
@@ -32,15 +32,19 @@ La creatividad en la enseñanza del inglés se refleja en la incorporación de a
 5. Creación de anuncios publicitarios (Advertising Creation): Los estudiantes inventan un producto o servicio y elaboran un anuncio para promocionarlo en inglés. Pueden diseñar carteles, crear eslóganes y presentar sus productos ante la clase, utilizando expresiones persuasivas.
 6. Simulación de situaciones de la vida cotidiana (Real-Life Simulations): Los estudiantes representan situaciones como comprar en una tienda, pedir comida en un restaurante, reservar un hotel o solicitar información. Cada uno asume un personaje y utiliza expresiones en inglés según el contexto.
 ```
-                                                Métodos y Técnicas que Fomentan la Creatividad Lingüística
+                                    Métodos y Técnicas que Fomentan la Creatividad Lingüística
 ```
 Para desarrollar la creatividad lingüística es importante utilizar metodologías que permitan a los estudiantes participar activamente, experimentar con el idioma y construir sus propios mensajes. Entre las principales se encuentran:
 1. Aprendizaje Basado en Proyectos (Project-Based Learning): Los estudiantes trabajan en la elaboración de un producto relacionado con un tema específico. En inglés, pueden crear una revista escolar, una guía turística, un menú saludable o una campaña ambiental. Durante el proyecto investigan, escriben y presentan sus resultados utilizando el idioma.
+   
 2. Aprendizaje Cooperativo (Cooperative Learning): Consiste en organizar a los estudiantes en pequeños grupos para desarrollar actividades en conjunto. Por ejemplo, pueden crear una historieta, preparar un diálogo o resolver un desafío lingüístico. Cada integrante aporta ideas y participa en la construcción del resultado.
+   
 3. Escritura Creativa (Creative Writing): Busca desarrollar la imaginación mediante la producción de textos propios. Se pueden proponer actividades como inventar finales para cuentos, escribir poemas, crear personajes o redactar historias a partir de palabras al azar.
+   
 4. Aprendizaje Basado en Juegos (Game-Based Learning): Utiliza juegos como recurso para practicar y desarrollar habilidades lingüísticas. Se pueden realizar concursos de vocabulario, juegos de adivinanzas, retos de construcción de oraciones y actividades interactivas mediante Wordwall, Kahoot o Quizizz.
-5. Aprendizaje Basado en Problemas (Problem-Based Learning): Presenta situaciones que los estudiantes deben analizar y resolver utilizando el inglés. Por ejemplo, organizar un viaje con un presupuesto limitado, encontrar soluciones para reducir la contaminación o planificar una actividad escolar.
-6. Dramatización y Juego de Roles (Role-Play): Permite representar diferentes personajes y situaciones mediante diálogos e improvisaciones. Los estudiantes pueden simular entrevistas, conversaciones en lugares públicos o situaciones cotidianas, desarrollando la fluidez, la pronunciación y la seguridad al hablar.
+8. Aprendizaje Basado en Problemas (Problem-Based Learning): Presenta situaciones que los estudiantes deben analizar y resolver utilizando el inglés. Por ejemplo, organizar un viaje con un presupuesto limitado, encontrar soluciones para reducir la contaminación o planificar una actividad escolar.
+   
+5. Dramatización y Juego de Roles (Role-Play): Permite representar diferentes personajes y situaciones mediante diálogos e improvisaciones. Los estudiantes pueden simular entrevistas, conversaciones en lugares públicos o situaciones cotidianas, desarrollando la fluidez, la pronunciación y la seguridad al hablar.
 
 ```
                                            Impacto de la Creatividad en el Desarrollo y Avance de la Cátedra de inglés
