@@ -21,8 +21,10 @@ Definición de Creatividad
 
 En el contexto de la cátedra de inglés, la creatividad se define como la capacidad pedagógica y lingüística de utilizar la lengua nativa de manera flexible, fluida y original para construir significados auténticos. Desde la perspectiva de la lingüística aplicada, la creatividad comunicativa implica que el estudiante no solo repite patrones memorizados, sino que reorganiza el léxico y las estructuras gramaticales aprendidas para expresar intenciones, emociones e ideas propias en situaciones impredecibles.
 
+En este sentido, Li y Wu (2025) señalan que la creatividad ha adquirido una importancia creciente en la educación de segundas lenguas, especialmente por su relación con el desempeño lingüístico y las prácticas de enseñanza creativa. Esto permite reconocer que aprender inglés no consiste solamente en memorizar palabras y estructuras gramaticales, sino también en desarrollar la capacidad de utilizar el idioma de manera original y significativa.
+
 ```
-                                Ejemplos de Creatividad Aplicada en la Enseñanza del Inglés
+                             Ejemplos de Creatividad Aplicada en la Enseñanza del Inglés
 ```
 La creatividad en la enseñanza del inglés se manifiesta mediante actividades innovadoras que permiten a los estudiantes utilizar el idioma de forma práctica, dinámica y significativa. Estas experiencias van más allá de los ejercicios tradicionales, ya que promueven la imaginación, la comunicación y la construcción de conocimientos a partir de situaciones reales o imaginarias. Algunos ejemplos de su aplicación son:
 
@@ -67,6 +69,8 @@ El docente puede desarrollar la creatividad mediante:
 4. Uso de tecnología: Incorporar videos, aplicaciones, plataformas digitales y recursos interactivos.
 5. Actividades grupales: Promover diálogos, exposiciones y trabajos en equipo para fortalecer la comunicación.
 Importancia: La creatividad permite que los estudiantes pierdan el miedo a expresarse en inglés, participen con mayor confianza y desarrollen sus habilidades comunicativas. Además, ayuda al docente a adaptar sus clases a las necesidades y diferentes formas de aprender de sus estudiantes.
+
+Por su parte, Wang (2026) investigó las percepciones de docentes y estudiantes de secundaria sobre la enseñanza de la creatividad en las clases de inglés como lengua extranjera (EFL). Sus resultados destacan la importancia de los objetivos, las actividades de enseñanza y la evaluación para promover prácticas creativas en el aula. Esto permite comprender que el desarrollo de la creatividad también depende de la planificación del docente y de las oportunidades que brinda a sus estudiantes para participar y expresarse.
 ```
 Beneficios y limitaciones de la creatividad aplicada en la enseñanza del inglés
 ```
@@ -83,7 +87,8 @@ La creatividad en la enseñanza del inglés permite desarrollar clases más din�
 4. Desarrollo de habilidades: Fortalece la lectura, escritura, escucha y expresión oral mediante experiencias variadas.
 
 5. Confianza y autonomía: Ayuda a los estudiantes a perder el miedo a hablar inglés, desarrollar su creatividad y aprender por sí mismos.
-
+   
+La creatividad también contribuye al desarrollo del pensamiento crítico y a la capacidad de los estudiantes para generar ideas originales. Según Vincent-Lancrin et al. (2019), fomentar estas habilidades en el contexto escolar requiere ofrecer experiencias de aprendizaje que permitan explorar, experimentar y buscar diferentes soluciones. Por esta razón, las actividades creativas en inglés no solo favorecen el aprendizaje del idioma, sino también el desarrollo de otras capacidades importantes para la formación de los estudiantes.
    
 **Limitaciones**
 
@@ -96,34 +101,43 @@ La creatividad en la enseñanza del inglés permite desarrollar clases más din�
 4. Distracciones: Si las actividades no están bien organizadas, los estudiantes pueden concentrarse más en el juego que en el aprendizaje.
 
 5. Resistencia al cambio: Algunos estudiantes pueden sentir vergüenza o inseguridad al participar en actividades nuevas, especialmente cuando deben hablar en otro idioma.
+   
+   En relación con estos desafíos, Ahsanu et al. (2025) explican que la enseñanza creativa del inglés requiere que los docentes adapten sus estrategias a las condiciones del contexto educativo. Su investigación, realizada con docentes universitarios, también identifica las limitaciones institucionales como un aspecto que puede influir en la aplicación de prácticas innovadoras. Esto nos recuerda que no todas las actividades pueden desarrollarse de la misma manera en todos los centros educativos.
 
 
                                                 Conclusión
 
-La creatividad y la enseñanza del inglés son dos elementos que se complementan, ya que aprender un idioma no consiste únicamente en memorizar vocabulario o reglas gramaticales, sino también en encontrar diferentes maneras de comunicarse, expresar ideas y comprender el mundo que nos rodea. A través de la creatividad, el aprendizaje del inglés puede convertirse en una experiencia más dinámica, participativa y significativa para los estudiantes.
+La creatividad y la enseñanza del inglés son dos elementos que se complementan, ya que aprender un idioma no consiste únicamente en memorizar vocabulario o reglas gramaticales, sino también en encontrar diferentes maneras de comunicarse, expresar ideas y comprender el mundo que nos rodea. Al incorporar la creatividad en el aula, el aprendizaje puede convertirse en una experiencia más dinámica, participativa y significativa para los estudiantes.
 
-Durante este análisis podemos reconocer que incorporar actividades creativas, como los diálogos, las dramatizaciones, los juegos educativos, las canciones, las entrevistas y los proyectos, permite que los estudiantes practiquen el idioma de una manera más natural. Además, estas estrategias ayudan a despertar su interés, fortalecer la confianza al comunicarse y desarrollar habilidades como el pensamiento crítico, la imaginación y la resolución de problemas.
+A lo largo de este análisis podemos reconocer que las actividades creativas, como los diálogos, las dramatizaciones, los juegos educativos, las canciones, las entrevistas y los proyectos, permiten practicar el idioma de una manera más natural. Asimismo, estas estrategias despiertan el interés, fortalecen la confianza al comunicarse y favorecen el desarrollo de habilidades como el pensamiento crítico, la imaginación y la resolución de problemas.
 
-Desde nuestra perspectiva como docentes, consideramos que la creatividad no debe limitarse al uso de recursos tecnológicos o materiales novedosos. También se demuestra en la capacidad de adaptar las actividades a las necesidades de los estudiantes, aprovechar los recursos disponibles y relacionar los contenidos con situaciones de la vida cotidiana. Esto es especialmente importante porque no todos los grupos aprenden de la misma manera ni cuentan con las mismas oportunidades y recursos.
+Desde nuestra perspectiva como docentes, consideramos que ser creativos no significa depender únicamente de recursos tecnológicos o materiales novedosos. También implica saber adaptar las actividades a las necesidades de los estudiantes, aprovechar los recursos disponibles y relacionar los contenidos con situaciones de la vida cotidiana. Esto es importante porque no todos los grupos aprenden de la misma manera ni cuentan con las mismas oportunidades y recursos.
 
-En conclusión, la creatividad en la cátedra de inglés no es simplemente un complemento de la enseñanza, sino una herramienta que enriquece el proceso educativo. Cuando el docente ofrece espacios para que los estudiantes participen, experimenten y expresen sus propias ideas, el idioma deja de ser solamente una asignatura y se convierte en un medio para comunicarse, aprender y desenvolverse en diferentes contextos. Por ello, es importante promover una enseñanza del inglés más creativa, flexible y cercana a la realidad de los estudiantes.
+Por esta razón, la creatividad en la cátedra de inglés debe considerarse una herramienta importante para enriquecer el proceso educativo. Cuando el docente ofrece espacios para que los estudiantes participen, experimenten y expresen sus propias ideas, el idioma deja de ser solamente una asignatura y se convierte en un medio para comunicarse, aprender y desenvolverse en diferentes contextos.
+
+Finalmente, creemos que enseñar inglés de manera creativa también representa un reto para nosotros como docentes, porque nos invita a salir de las formas tradicionales de enseñanza y a estar abiertos a nuevas ideas. No se trata de que todas las clases sean diferentes o de realizar actividades complicadas, sino de encontrar pequeños cambios que hagan que los estudiantes se sientan motivados y puedan utilizar lo que aprenden. A veces, una actividad sencilla, bien pensada y relacionada con su realidad puede marcar una diferencia en la manera en que se acercan al idioma.
+
+
 
                                         Referencias Bibliográficas
 
 
-Ahsanu, M., Wardani, E., & Ashari, A. (2025). Creative teaching in English language classrooms: A reflective and contextual interpretation. JEES (Journal of English Educators Society), 10(2), 206–218. https://doi.org/10.21070/jees.v10i2.1967
+Ahsanu, M., Wardani, E., Ashari, A., & Roiyasa, N. (2025). Creative teaching in English language classrooms: A reflective and contextual interpretation. JEES (Journal of English Educators Society), 10(2), 206–218. https://doi.org/10.21070/jees.v10i2.1967
 
 Li, H., & Wu, H. (2025). Looking to the past for mapping the future: A bibliometric review of extant creativity research in second language education. Acta Psychologica, 257, 105138. https://doi.org/10.1016/j.actpsy.2025.105138
 
-Sánchez Avila, P. del R., Córdova Saltos, J. C., Alvarado Ferretti, G. L., & Vera Torres, J. Y. (2025). Estrategias didácticas innovadoras para la enseñanza del lenguaje: una revisión sistemática. *RECIMUNDO, 9*(2), 17–36. https://doi.org/10.26820/recimundo/9.(2).abril.2025.17-36
+Sánchez Avila, P. del R., Córdova Saltos, J. C., Alvarado Ferretti, G. L., & Vera Torres, J. Y. (2025). Estrategias didácticas innovadoras para la enseñanza del lenguaje: Una revisión sistemática. RECIMUNDO, 9(2), 17–36. https://doi.org/10.26820/recimundo/9.(2).abril.2025.17-36
 
 Vincent-Lancrin, S., González-Sancho, C., Bouckaert, M., De Luca, F., Fernández-Barrerra, M., Jacotin, G., Urgel, J., & Vidal, Q. (2019). Fostering students' creativity and critical thinking: What it means in school. OECD Publishing. https://doi.org/10.1787/62212c37-en
 
 Wang, H. (2026). Exploring high school teachers’ and students’ perceptions of teaching for creativity in EFL classes. Innovation in Language Learning and Teaching, 20(2), 198–210. https://doi.org/10.1080/17501229.2024.2388631
 
-Yu, X., Wang, T.-Y., & Yuizono, T. (2023). Creativity development through questioning activity in second language education. Frontiers in Education, 8, 1178655. https://doi.org/10.3389/feduc.2023.1178655
+Yu, X., Wang, T.-Y., & Yuizono, T. (2023). Creativity development through questioning activity in second language education. Frontiers in Education, 8, Article 1178655. https://doi.org/10.3389/feduc.2023.1178655
 
-Yudha, E. K., Rudiyanto, & Rohman, R. (2023). Integrating creativity and technology in English language teaching: A systematic review of pedagogical innovations and assessment strategies in EFL contexts. ELT Worldwide: Journal of English Language Teaching, 11(2), 655–675. https://doi.org/10.26858/eltww.v11i2.65575
+Yudha, E. K., Rudiyanto, R., & Rohman, R. (2024). Integrating creativity and technology in English language teaching: A systematic review of pedagogical innovations and assessment strategies in EFL contexts. ELT Worldwide: Journal of English Language Teaching, 11(2), 302–312. https://doi.org/10.26858/eltww.v11i2.65575
+
+
+
 
 
 
