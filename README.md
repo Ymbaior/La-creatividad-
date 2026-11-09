@@ -26,32 +26,33 @@ En el contexto de la cátedra de inglés, la creatividad se define como la capac
 ```
 La creatividad en la enseñanza del inglés se manifiesta mediante actividades innovadoras que permiten a los estudiantes utilizar el idioma de forma práctica, dinámica y significativa. Estas experiencias van más allá de los ejercicios tradicionales, ya que promueven la imaginación, la comunicación y la construcción de conocimientos a partir de situaciones reales o imaginarias. Algunos ejemplos de su aplicación son:
 
-1. Creación de historias ilustradas (Story Creation): Los estudiantes inventan historias a partir de una secuencia de imágenes, crean sus propios personajes y redactan diálogos en inglés. Posteriormente, comparten sus producciones con sus compañeros. Esta actividad fortalece la escritura creativa, la comprensión lectora, el vocabulario y la expresión oral.
+1.**Creación de historias ilustradas (Story Creation):** Los estudiantes inventan historias a partir de una secuencia de imágenes, crean sus propios personajes y redactan diálogos en inglés. Posteriormente, comparten sus producciones con sus compañeros. Esta actividad fortalece la escritura creativa, la comprensión lectora, el vocabulario y la expresión oral.
 
-2. Diseño de una ciudad imaginaria (Design Your Own City): Los alumnos diseñan una ciudad utilizando dibujos, maquetas o herramientas digitales. Luego, describen los lugares, indican cómo llegar a ellos y explican qué actividades se pueden realizar en cada espacio. Esta propuesta permite practicar vocabulario relacionado con los lugares de la ciudad, las direcciones y las preposiciones de lugar, al mismo tiempo que desarrolla la imaginación y la comunicación.
+2. **Diseño de una ciudad imaginaria (Design Your Own City):** Los alumnos diseñan una ciudad utilizando dibujos, maquetas o herramientas digitales. Luego, describen los lugares, indican cómo llegar a ellos y explican qué actividades se pueden realizar en cada espacio. Esta propuesta permite practicar vocabulario relacionado con los lugares de la ciudad, las direcciones y las preposiciones de lugar, al mismo tiempo que desarrolla la imaginación y la comunicación.
 
-3. Creación de un noticiero escolar (School News): Los estudiantes organizan un pequeño noticiero en inglés, donde presentan noticias de la escuela, realizan entrevistas e informan sobre diferentes acontecimientos. Cada participante asume un papel, como presentador, reportero o entrevistado. Esta experiencia favorece la fluidez verbal, la pronunciación, la comprensión auditiva y la seguridad al comunicarse.
+3. **Creación de un noticiero escolar (School News):** Los estudiantes organizan un pequeño noticiero en inglés, donde presentan noticias de la escuela, realizan entrevistas e informan sobre diferentes acontecimientos. Cada participante asume un papel, como presentador, reportero o entrevistado. Esta experiencia favorece la fluidez verbal, la pronunciación, la comprensión auditiva y la seguridad al comunicarse.
 
-4. Escape Room en inglés: El docente prepara una serie de pistas, acertijos y desafíos lingüísticos que los estudiantes deben resolver utilizando sus conocimientos del idioma. Por ejemplo, pueden descifrar palabras, completar oraciones, interpretar instrucciones o responder preguntas para avanzar hasta encontrar la solución final. Esta estrategia estimula el pensamiento crítico, la resolución de problemas y el trabajo colaborativo.
+4. **Escape Room en inglés:** El docente prepara una serie de pistas, acertijos y desafíos lingüísticos que los estudiantes deben resolver utilizando sus conocimientos del idioma. Por ejemplo, pueden descifrar palabras, completar oraciones, interpretar instrucciones o responder preguntas para avanzar hasta encontrar la solución final. Esta estrategia estimula el pensamiento crítico, la resolución de problemas y el trabajo colaborativo.
 
-5. Creación de anuncios publicitarios (Advertising Creation): Los estudiantes inventan un producto o servicio y elaboran un anuncio para promocionarlo en inglés. Pueden diseñar carteles, crear eslóganes y preparar mensajes persuasivos para convencer a sus compañeros sobre las ventajas de su producto. Esta actividad desarrolla la escritura, la expresión oral, el vocabulario y la capacidad de argumentación.
+5. **Creación de anuncios publicitarios (Advertising Creation):** Los estudiantes inventan un producto o servicio y elaboran un anuncio para promocionarlo en inglés. Pueden diseñar carteles, crear eslóganes y preparar mensajes persuasivos para convencer a sus compañeros sobre las ventajas de su producto. Esta actividad desarrolla la escritura, la expresión oral, el vocabulario y la capacidad de argumentación.
 
-6. Simulación de situaciones de la vida cotidiana (Real-Life Simulations): Los estudiantes representan situaciones comunes, como comprar en una tienda, pedir comida en un restaurante, reservar un hotel o solicitar información. Cada participante asume un personaje y utiliza expresiones en inglés de acuerdo con el contexto. Esta práctica fortalece la competencia comunicativa, la fluidez y la capacidad de utilizar el idioma en situaciones reales.
+6. **Simulación de situaciones de la vida cotidiana (Real-Life Simulations):** Los estudiantes representan situaciones comunes, como comprar en una tienda, pedir comida en un restaurante, reservar un hotel o solicitar información. Cada participante asume un personaje y utiliza expresiones en inglés de acuerdo con el contexto. Esta práctica fortalece la competencia comunicativa, la fluidez y la capacidad de utilizar el idioma en situaciones reales.
 ```
                              Métodos y Técnicas que Fomentan la Creatividad Lingüística
 ```
 Para desarrollar la creatividad lingüística es importante utilizar metodologías que permitan a los estudiantes participar activamente, experimentar con el idioma y construir sus propios mensajes. Entre las principales se encuentran:
-1. Aprendizaje Basado en Proyectos (Project-Based Learning): Los estudiantes trabajan en la elaboración de un producto relacionado con un tema específico. En inglés, pueden crear una revista escolar, una guía turística, un menú saludable o una campaña ambiental. Durante el proyecto investigan, escriben y presentan sus resultados utilizando el idioma.
-   
-2. Aprendizaje Cooperativo (Cooperative Learning): Consiste en organizar a los estudiantes en pequeños grupos para desarrollar actividades en conjunto. Por ejemplo, pueden crear una historieta, preparar un diálogo o resolver un desafío lingüístico. Cada integrante aporta ideas y participa en la construcción del resultado.
-   
-3. Escritura Creativa (Creative Writing): Busca desarrollar la imaginación mediante la producción de textos propios. Se pueden proponer actividades como inventar finales para cuentos, escribir poemas, crear personajes o redactar historias a partir de palabras al azar.
-   
-4. Aprendizaje Basado en Juegos (Game-Based Learning): Utiliza los juegos como herramientas para facilitar la adquisición y práctica del idioma. Se pueden implementar concursos de vocabulario, adivinanzas, retos para construir oraciones y actividades interactivas mediante plataformas como Wordwall, Kahoot o Quizizz. Estas experiencias aumentan la motivación, favorecen la participación y permiten reforzar los conocimientos de manera dinámica.
 
-5. Aprendizaje Basado en Problemas (Problem-Based Learning): Presenta situaciones que los estudiantes deben analizar y resolver utilizando el inglés. Por ejemplo, organizar un viaje con un presupuesto limitado, encontrar soluciones para reducir la contaminación o planificar una actividad escolar.
+1. **Aprendizaje Basado en Proyectos (Project-Based Learning):** Los estudiantes trabajan en la elaboración de un producto relacionado con un tema específico. En inglés, pueden crear una revista escolar, una guía turística, un menú saludable o una campaña ambiental. Durante el proyecto investigan, escriben y presentan sus resultados utilizando el idioma.
    
-6. Dramatización y Juego de Roles (Role-Play): Permite representar diferentes personajes y situaciones mediante diálogos e improvisaciones. Los estudiantes pueden simular entrevistas, conversaciones en lugares públicos o situaciones cotidianas, desarrollando la fluidez, la pronunciación y la seguridad al hablar.
+2. **Aprendizaje Cooperativo (Cooperative Learning):** Consiste en organizar a los estudiantes en pequeños grupos para desarrollar actividades en conjunto. Por ejemplo, pueden crear una historieta, preparar un diálogo o resolver un desafío lingüístico. Cada integrante aporta ideas y participa en la construcción del resultado.
+   
+3. **Escritura Creativa (Creative Writing):** Busca desarrollar la imaginación mediante la producción de textos propios. Se pueden proponer actividades como inventar finales para cuentos, escribir poemas, crear personajes o redactar historias a partir de palabras al azar.
+   
+4. **Aprendizaje Basado en Juegos (Game-Based Learning):** Utiliza los juegos como herramientas para facilitar la adquisición y práctica del idioma. Se pueden implementar concursos de vocabulario, adivinanzas, retos para construir oraciones y actividades interactivas mediante plataformas como Wordwall, Kahoot o Quizizz. Estas experiencias aumentan la motivación, favorecen la participación y permiten reforzar los conocimientos de manera dinámica.
+
+5. **Aprendizaje Basado en Problemas (Problem-Based Learning):** Presenta situaciones que los estudiantes deben analizar y resolver utilizando el inglés. Por ejemplo, organizar un viaje con un presupuesto limitado, encontrar soluciones para reducir la contaminación o planificar una actividad escolar.
+   
+6. **Dramatización y Juego de Roles (Role-Play):** Permite representar diferentes personajes y situaciones mediante diálogos e improvisaciones. Los estudiantes pueden simular entrevistas, conversaciones en lugares públicos o situaciones cotidianas, desarrollando la fluidez, la pronunciación y la seguridad al hablar.
 
 ```
                       Impacto de la Creatividad en el Desarrollo y Avance de la Cátedra de inglés
@@ -71,7 +72,7 @@ Beneficios y limitaciones de la creatividad aplicada en la enseñanza del inglé
 ```
 La creatividad en la enseñanza del inglés permite desarrollar clases más dinámicas, interesantes y participativas. Sin embargo, también presenta algunos desafíos que el docente debe tomar en cuenta.
 
-Beneficios
+**Beneficios**
 
 1. Mayor motivación: Despierta el interés de los estudiantes y aumenta sus ganas de aprender inglés mediante actividades diferentes y entretenidas.
 
@@ -84,7 +85,7 @@ Beneficios
 5. Confianza y autonomía: Ayuda a los estudiantes a perder el miedo a hablar inglés, desarrollar su creatividad y aprender por sí mismos.
 
    
-Limitaciones
+**Limitaciones**
 
 1. Falta de recursos: Algunas actividades creativas necesitan materiales, tecnología o equipos que no siempre están disponibles en el aula.
 
