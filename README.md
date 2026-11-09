@@ -26,7 +26,7 @@ En el contexto de la cátedra de inglés, la creatividad se define como la capac
 ```
 La creatividad en la enseñanza del inglés se manifiesta mediante actividades innovadoras que permiten a los estudiantes utilizar el idioma de forma práctica, dinámica y significativa. Estas experiencias van más allá de los ejercicios tradicionales, ya que promueven la imaginación, la comunicación y la construcción de conocimientos a partir de situaciones reales o imaginarias. Algunos ejemplos de su aplicación son:
 
-1.**Creación de historias ilustradas (Story Creation):** Los estudiantes inventan historias a partir de una secuencia de imágenes, crean sus propios personajes y redactan diálogos en inglés. Posteriormente, comparten sus producciones con sus compañeros. Esta actividad fortalece la escritura creativa, la comprensión lectora, el vocabulario y la expresión oral.
+1. **Creación de historias ilustradas (Story Creation):** Los estudiantes inventan historias a partir de una secuencia de imágenes, crean sus propios personajes y redactan diálogos en inglés. Posteriormente, comparten sus producciones con sus compañeros. Esta actividad fortalece la escritura creativa, la comprensión lectora, el vocabulario y la expresión oral.
 
 2. **Diseño de una ciudad imaginaria (Design Your Own City):** Los alumnos diseñan una ciudad utilizando dibujos, maquetas o herramientas digitales. Luego, describen los lugares, indican cómo llegar a ellos y explican qué actividades se pueden realizar en cada espacio. Esta propuesta permite practicar vocabulario relacionado con los lugares de la ciudad, las direcciones y las preposiciones de lugar, al mismo tiempo que desarrolla la imaginación y la comunicación.
 
