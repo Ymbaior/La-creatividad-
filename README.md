@@ -1,4 +1,4 @@
-# La-creatividad-
+# -La creatividad-
 El presente artículo de investigación examina el concepto de la creatividad en el campo educativo, analizando cómo su integración transforma los procesos de enseñanza y aprendizaje en las aulas contemporáneas.
 
 
@@ -47,7 +47,7 @@ Para desarrollar la creatividad lingüística es importante utilizar metodologí
 5. Dramatización y Juego de Roles (Role-Play): Permite representar diferentes personajes y situaciones mediante diálogos e improvisaciones. Los estudiantes pueden simular entrevistas, conversaciones en lugares públicos o situaciones cotidianas, desarrollando la fluidez, la pronunciación y la seguridad al hablar.
 
 ```
-                                           Impacto de la Creatividad en el Desarrollo y Avance de la Cátedra de inglés
+                                 Impacto de la Creatividad en el Desarrollo y Avance de la Cátedra de inglés
 ```
 La creatividad en la cátedra de inglés consiste en utilizar diferentes estrategias y actividades innovadoras para facilitar el aprendizaje del idioma. Su propósito es lograr que las clases sean más dinámicas, interesantes y participativas, permitiendo que los estudiantes aprendan de una manera práctica y divertida.
 
