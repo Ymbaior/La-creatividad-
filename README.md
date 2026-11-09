@@ -115,8 +115,6 @@ Ahsanu, M., Wardani, E., & Ashari, A. (2025). Creative teaching in English langu
 
 Li, H., & Wu, H. (2025). Looking to the past for mapping the future: A bibliometric review of extant creativity research in second language education. Acta Psychologica, 257, 105138. https://doi.org/10.1016/j.actpsy.2025.105138
 
-Nominis. (2023, 12 de mayo). 10 formas creativas de fomentar el aprendizaje del inglés en niños a través de la expresión y la creatividad. https://nominis.es/blog/10-formas-creativas-fomentar-aprendizaje-ingles-ninos-expresion-creatividad/
-
 Sánchez Avila, P. del R., Córdova Saltos, J. C., Alvarado Ferretti, G. L., & Vera Torres, J. Y. (2025). Estrategias didácticas innovadoras para la enseñanza del lenguaje: una revisión sistemática. *RECIMUNDO, 9*(2), 17–36. https://doi.org/10.26820/recimundo/9.(2).abril.2025.17-36
 
 Vincent-Lancrin, S., González-Sancho, C., Bouckaert, M., De Luca, F., Fernández-Barrerra, M., Jacotin, G., Urgel, J., & Vidal, Q. (2019). Fostering students' creativity and critical thinking: What it means in school. OECD Publishing. https://doi.org/10.1787/62212c37-en
