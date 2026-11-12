@@ -65,7 +65,7 @@ Importancia: La creatividad permite que los estudiantes pierdan el miedo a expre
 
 Por su parte, Wang (2026) investigó las percepciones de docentes y estudiantes de secundaria sobre la enseñanza de la creatividad en las clases de inglés como lengua extranjera (EFL). Sus resultados destacan la importancia de los objetivos, las actividades de enseñanza y la evaluación para promover prácticas creativas en el aula. 
 
-```                     Beneficios y limitaciones de la creatividad aplicada en la enseñanza del inglés
+                         Beneficios y limitaciones de la creatividad aplicada en la enseñanza del inglés
 ```
 La creatividad en la enseñanza del inglés permite desarrollar clases más dinámicas, interesantes y participativas. Sin embargo, también presenta algunos desafíos que el docente debe tomar en cuenta.
 
