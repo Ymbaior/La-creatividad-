@@ -1,22 +1,29 @@
 # La creatividad en la cátedra de Inglés 
 
+Artículo de Investigación sobre la Creatividad
 
-                                                      Introducción
+Estudiante: Alexis Correa, Milagros Miranda, Keitty Arauz, Humberto Caballero
+
+Disciplina Seleccionada: La Creatividad en la Cátedra de Inglés
+
+Fecha: 8 de Noviembre de 2026
+
+                                                     1. Introducción
 
 La enseñanza del idioma inglés como lengua extranjera (EFL) y más enfocada en la Educación Media Diversificada exige responder a un entorno a nivel general dinámico donde la competencia comunicativa no podemos solo reducirla a la memorización mecánica de estructuras sintácticas o listas de vocabulario aislado, las cuales terminaran entorpeciendo el proceso de aprendizaje y creativo. Podríamos decir que, en la actualidad, aprender inglés implica adquirir la capacidad de expresar ideas complejas sin dejar a un lado resolver dilemas interculturales o comunicarse de manera fluida y persuasiva en contextos reales lo cual hace muy importante la incorporación de la creatividad en la cátedra de inglés actuando como un catalizador estratégico que nos ayuda a transformar el aula tradicional en un espacio interactivo que termina siendo un conducto que nos ayuda a ir reduciendo el filtro afectivo y la ansiedad del estudiante frente al uso del nuevo idioma.
 Para quienes enseñamos inglés, uno de los principales desafíos pedagógicos consiste en diseñar experiencias de aprendizaje que fomenten el pensamiento creativo y permitan utilizar el idioma de manera natural. Por lo que considero un deber integrar actividades creativas: tales como la producción de guiones teatrales, el debate argumentativo, la narrativa digital (digital storytelling) y la resolución colaborativa de problemas en inglés, lo cual servirá de puente para el docente ya que conocerá que areas o competencias fortalecer y a su vez, al estudiante por qué podrá fortalecer tanto las micro habilidades lingüísticas (listening, speaking, reading, writing) como las competencias socioemocionales indispensables para entablar relaciones en entornos laborales o simplemente en el día a día. Por consiguiente, este artículo investiga los fundamentos, aplicaciones e impacto de la creatividad en la enseñanza del inglés, ofreciendo un marco reflexivo alineado a la excelencia académica universitaria.
 
 
-                                            La Creatividad en la Cátedra de Inglés
+                                           2. Desarrollo: La Creatividad en la Cátedra de Inglés
                                             
-Definición de Creatividad 
+2.1 Definición de Creatividad 
 
 En el contexto de la cátedra de inglés, la creatividad se define como la capacidad pedagógica y lingüística de utilizar la lengua nativa de manera flexible, fluida y original para construir significados auténticos. Desde la perspectiva de la lingüística aplicada, la creatividad comunicativa implica que el estudiante no solo repite patrones memorizados, sino que reorganiza el léxico y las estructuras gramaticales aprendidas para expresar intenciones, emociones e ideas propias en situaciones impredecibles.
 
 En este sentido, Li y Wu (2025) señalan que la creatividad ha adquirido una importancia creciente en la educación de segundas lenguas, especialmente por su relación con el desempeño lingüístico y las prácticas de enseñanza creativa. 
 
 ```
-                                   Ejemplos de Creatividad Aplicada en la Enseñanza del Inglés
+                                 2.2 Ejemplos de Creatividad Aplicada en la Enseñanza del Inglés
 ```
 La creatividad en la enseñanza del inglés se manifiesta mediante actividades innovadoras que permiten a los estudiantes utilizar el idioma de forma práctica, dinámica y significativa. Estas experiencias van más allá de los ejercicios tradicionales, ya que promueven la imaginación, la comunicación y la construcción de conocimientos a partir de situaciones reales. Algunos ejemplos de su aplicación son:
 
@@ -33,7 +40,7 @@ La creatividad en la enseñanza del inglés se manifiesta mediante actividades i
 6. **Simulación de situaciones de la vida cotidiana (Real-Life Simulations):** Los estudiantes representan situaciones comunes, como comprar en una tienda, pedir comida en un restaurante, reservar un hotel o solicitar información. Cada participante asume un personaje y utiliza expresiones en inglés de acuerdo con el contexto.
 
 ```
-                                     Métodos y Técnicas que Fomentan la Creatividad Lingüística
+                           2.3  Métodos y Técnicas que Fomentan la Creatividad Lingüística
 ```
 Para desarrollar la creatividad lingüística es importante utilizar metodologías que permitan a los estudiantes participar activamente, experimentar con el idioma y construir sus propios mensajes. Entre las principales se encuentran:
 
@@ -50,7 +57,7 @@ Para desarrollar la creatividad lingüística es importante utilizar metodologí
 6. **Dramatización y Juego de Roles (Role-Play):** Permite representar diferentes personajes y situaciones mediante diálogos e improvisaciones. Los estudiantes pueden simular entrevistas, conversaciones en lugares públicos o situaciones cotidianas, desarrollando la fluidez, la pronunciación y la seguridad al hablar.
 
 ```
-                             Impacto de la Creatividad en el Desarrollo y Avance de la Cátedra de inglés
+                           2.4 Impacto de la Creatividad en el Desarrollo y Avance de la Cátedra de inglés
 ```
 La creatividad en la cátedra de inglés consiste en utilizar diferentes estrategias y actividades innovadoras para facilitar el aprendizaje del idioma. Su propósito es lograr que las clases sean más dinámicas, interesantes y participativas, permitiendo que los estudiantes aprendan de una manera práctica y divertida.
 
@@ -66,7 +73,7 @@ Importancia: La creatividad permite que los estudiantes pierdan el miedo a expre
 Por su parte, Wang (2026) investigó las percepciones de docentes y estudiantes de secundaria sobre la enseñanza de la creatividad en las clases de inglés como lengua extranjera (EFL). Sus resultados destacan la importancia de los objetivos, las actividades de enseñanza y la evaluación para promover prácticas creativas en el aula. 
 
 ```
-                         Beneficios y limitaciones de la creatividad aplicada en la enseñanza del inglés
+                       2.5 Beneficios y limitaciones de la creatividad aplicada en la enseñanza del inglés
 ```
 La creatividad en la enseñanza del inglés permite desarrollar clases más dinámicas, interesantes y participativas. Sin embargo, también presenta algunos desafíos que el docente debe tomar en cuenta.
 
@@ -98,7 +105,7 @@ La creatividad también contribuye al desarrollo del pensamiento crítico y a la
    
    En relación con estos desafíos, Ahsanu et al. (2025) explican que la enseñanza creativa del inglés requiere que los docentes adapten sus estrategias a las condiciones del contexto educativo. Su investigación, realizada con docentes universitarios, también identifica las limitaciones institucionales como un aspecto que puede influir en la aplicación de prácticas innovadoras. 
 
-                                                             Conclusión
+                                                           3. Conclusión
 
 La creatividad y la enseñanza del inglés son dos elementos que se complementan, ya que aprender un idioma no consiste únicamente en memorizar vocabulario o reglas gramaticales, sino también en encontrar diferentes maneras de comunicarse, expresar ideas y comprender el mundo que nos rodea. Al incorporar la creatividad en el aula, el aprendizaje puede convertirse en una experiencia más dinámica, participativa y significativa para los estudiantes.
 
@@ -112,7 +119,7 @@ Finalmente, creemos que enseñar inglés de manera creativa también representa 
 
 
 
-                                                 Referencias Bibliográficas
+                                               4. Referencias Bibliográficas
 
 
 Ahsanu, M., Wardani, E., Ashari, A., & Roiyasa, N. (2025). Creative teaching in English language classrooms: A reflective and contextual interpretation. JEES (Journal of English Educators Society), 10(2), 206–218. https://doi.org/10.21070/jees.v10i2.1967
